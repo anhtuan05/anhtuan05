@@ -29,7 +29,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en" alt="anhtuan05" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anhtuan05&show_icons=true&locale=en" alt="anhtuan05" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username" alt="anhtuan05" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anhtuan05" alt="anhtuan05" />
 </p>
