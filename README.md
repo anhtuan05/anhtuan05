@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuấn</h1>
-<h3 align="center">A passionate developer from Vietnam</h3>
+<h3 align="center">A passionate developer from Viet Nam</h3>
 
 - 🔭 I’m currently working on: **IoT + Web Dashboard using Flask & ESP32**
 
