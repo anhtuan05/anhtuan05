@@ -93,7 +93,7 @@ I build responsive, interactive, and production-ready web applications with a fo
 
 **React.js • Vite • Krpano**
 
-🔗 https://360.eco-retreat.com.vn
+🔗 https://360.eco-retreat.com.vn/forest-onsen/building
 
 Interactive real-estate visualization platform combining responsive web interfaces with immersive **360° virtual tours**.
 
@@ -104,13 +104,13 @@ Interactive real-estate visualization platform combining responsive web interfac
 
 ---
 
-### 🌊 Maia Resort Ho Tram — Interactive 360° Experience
+### ☀️ SkySOLIS — Interactive 360° Experience
 
 **React.js • Vite • Krpano**
 
-🔗 https://vr360.maiaresorthotram.com
+🔗 https://360.skysolis.my/
 
-Immersive web experience allowing users to explore villas, amenities, landscapes, and project spaces through interactive 360° navigation.
+Immersive web experience allowing users to explore apartments, amenities, landscapes, and project spaces through interactive 360° navigation.
 
 * Integrated React interfaces with Krpano-based virtual tours
 * Developed responsive navigation and interactive information layers
