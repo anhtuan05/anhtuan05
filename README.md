@@ -158,7 +158,7 @@ Immersive Web
 
 * **GitHub:** [github.com/anhtuan05](https://github.com/anhtuan05)
 * **Email:** [nguyenanhtuan050302@gmail.com](mailto:nguyenanhtuan050302@gmail.com)
-* **LinkedIn:** [www.linkedin.com/in/anh-tuan-nguyen-86510627a](www.linkedin.com/in/anh-tuan-nguyen-86510627a)
+* **LinkedIn:** https://www.linkedin.com/in/anh-tuan-nguyen-86510627a/
 * **Portfolio:** 
 
 ---
